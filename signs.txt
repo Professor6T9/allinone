@@ -1,0 +1,55 @@
+input type="submit" name="submit" value="Upload"
+input type="file" name="upload"
+%PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"
+input type="submit" value=">>"
+input type=password name=pass><input type=submit value='>>'>
+<pre align=center><form method=post>Password<br><input type=password name=pass
+TheAlmightyZeus
+Jijle3
+WSO 5.1.4
+WSO YANZ ENC BYPASS
+Yanz Webshell!
+FilesMAn
+WSO 4.2.5
+WSO 2.6
+Yanz Webshell!
+WSO YANZ ENC BYPASS
+WSOX ENC
+WSO 4.2.6
+File Manager
+drwxr-xr-x
+WSO 2.5
+Uname:
+Faizzz-Chin ShellXploit
+Mini Shell
+Mini Shell By Black_Shadow
+xichang1
+B Ge Team File Manager
+MARIJuANA'
+ineSec Team Shell
+CHips L Pro sangad
+[+] MINI SH3LL BYPASS [+]
+#p@@#
+TEAM-0ROOT
+#No_Identity
+Tiny File Manager 2.4.3
+[ Mini Shell ]
+PHU Mini Shell
+//0x5a455553.github.io/MARIJUANA/icon.png
+Powered By Indonesian Darknet
+Mr.Combet Webshel'
+MSQ_403
+#wp_config_error#
+Graybyt3 Was Here
+Bypass Sh3ll
+Bypass 403 Forbidden / 406 Not Acceptable / Imunify360 / Mini Shell
+One Hat Cyber Team
+Mr.Combet WebShell
+C0d3d By Dr.D3m0
+Gel4y Mini Shell
+anonymousfox
+AnonymousFox
+FoxWSO v1.2
+FilesMan
+<input type=file name=uploads[] />
+<input type='file' name='uploads[]' />
