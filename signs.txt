@@ -1,55 +1,111 @@
-input type="submit" name="submit" value="Upload"
-input type="file" name="upload"
-%PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"
-input type="submit" value=">>"
-input type=password name=pass><input type=submit value='>>'>
-<pre align=center><form method=post>Password<br><input type=password name=pass
-TheAlmightyZeus
-Jijle3
-WSO 5.1.4
-WSO YANZ ENC BYPASS
-Yanz Webshell!
-FilesMAn
-WSO 4.2.5
-WSO 2.6
-Yanz Webshell!
-WSO YANZ ENC BYPASS
-WSOX ENC
-WSO 4.2.6
-File Manager
-drwxr-xr-x
-WSO 2.5
-Uname:
-Faizzz-Chin ShellXploit
-Mini Shell
-Mini Shell By Black_Shadow
-xichang1
-B Ge Team File Manager
-MARIJuANA'
-ineSec Team Shell
-CHips L Pro sangad
-[+] MINI SH3LL BYPASS [+]
-#p@@#
-TEAM-0ROOT
+#0x2525
 #No_Identity
-Tiny File Manager 2.4.3
-[ Mini Shell ]
-PHU Mini Shell
-//0x5a455553.github.io/MARIJUANA/icon.png
-Powered By Indonesian Darknet
-Mr.Combet Webshel'
-MSQ_403
+#p@@#
 #wp_config_error#
-Graybyt3 Was Here
-Bypass Sh3ll
-Bypass 403 Forbidden / 406 Not Acceptable / Imunify360 / Mini Shell
-One Hat Cyber Team
-Mr.Combet WebShell
-C0d3d By Dr.D3m0
-Gel4y Mini Shell
-anonymousfox
-AnonymousFox
-FoxWSO v1.2
-FilesMan
-<input type=file name=uploads[] />
+-rw-r--r--
+//0x5a455553.github.io/MARIJUANA/icon.png
+<h1>EVOLUTION-MANAGER</h1>
 <input type='file' name='uploads[]' />
+<input type=file name=uploads[] />
+<title>403WebShell</title>
+<title>Anonymous Indonesia</title>
+<title>Casper Webshell</title>
+<title>FX Shell Backdor</title>
+<title>MSQ_403</title>
+<title>Management System</title>
+<title>Upload your files</title>
+<title>Uploader Sp3Ctra</title>
+<title>Vim Patior</title>
+<title>WIBUHAX0R1337 - ShelL</title>
+<title>xXx Kelelawar Cyber Team xXx</title>
+<title>{Ninja-Shell}</title>
+<title>||TINY SHELL ||</title>
+AnonSec Shell
+AnonymousFox
+BlackDragon
+C0d3d By Dr.D3m0
+Current Directory:
+Current dir:
+Doc Root:
+FilesMAn
+FoxWSO v1.2
+Graybyt3 Was Here
+Hostname :
+Jijle3
+L I E R SHELL
+Mini Shell
+Mr.Combet Webshell
+OI TOD - THE BLACK PAPER
+Powered By Indonesian Darknet
+Shal Shell Kontol:V
+Uname:
+UnknownSec Shell
+Yohohohohohooho
+Zerion Mini Shell"
+[ HOME SHELL ]
+anonymousfox
+drwxr-xr-x
+title>Gelişmiş Dosya Yöneticisi</title>
+title>Log In | ECWS</title>
+x3x3x3x_5h3ll
+{Ninja-Shell}
+<title>Shell Bypass 403 GE-C666C</title>
+<title>Shell Bypass Mr.7Mind</title>
+Shell Bypass 403 GE-C666C
+//0x5a455553.github.io/MARIJUANA/icon.png
+Bypass 403 Forbidden / 406 Not Acceptable / Imunify360 / Mini Shell
+Bypass Sh3ll
+WSO YANZ ENC BYPASS
+[+] MINI SH3LL BYPASS [+]
+<img src="https://github.com/fluidicon.png" width="30" height="30" alt="">
+<input type="file" name="image-upload" class="image-upload" value="">
+B Ge Team File Manager
+C0d3d By Dr.D3m0
+CHips L Pro sangad
+Faizzz-Chin ShellXploit'
+File Manager
+FilesMAn
+FoxWSO v1.2
+Gel4y Mini Shell
+Graybyt3 Was Here
+MARIJuANA
+MSQ_403
+Mini Shell By Black_Shadow
+Mini Shell
+Mr.Combet WebShell
+One Hat Cyber Team
+PHU Mini Shell
+Powered By Indonesian Darknet
+TEAM-0ROOT
+TheAlmightyZeus
+Tiny File Manager 2.4.3
+Uname:
+Upload File : <input type="file" name="file"
+WSO 2.5
+WSO 2.6
+WSO 4.2.5
+WSO 4.2.6
+WSO 5.1.4
+WSOX ENC
+WebShellOrb 2.6
+Yanz Webshell!
+[ Mini Shell ]
+a href="?x=x">X0MB13
+a title="Upload" class="nav-link" href="?p=&amp;upload"
+drwxr-xr-x
+enctype="multipart/form-data"><input type="file" name="btul"><button>Gaskan<
+ineSec Team Shell
+input type="file" name="apx"><input type="submit"
+input type="submit" value="Upload Image" name="submit"
+input type="file" name="upload"
+input type="submit" name="submit" value="Upload"
+input type=text name=path><input type="file" name="files"><input type=submit value="Up"
+title">Tiny File Manager</h1>
+type="file"><input type="submit" value="Upload"
+xichang1
+">© BlackDragon <script
+Zhima Web File Management V1.00
+input type="file" name="file"><input name="_upl" type="submit" id="_upl" value="Upload"
+input type='file' name='zb'><input type='submit' name='upload' value='upload'
+<h1>芝麻web文件管理V1.00</h1>
+%PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"
