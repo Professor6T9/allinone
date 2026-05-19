@@ -42,7 +42,6 @@ Current Directory:
 Current dir:
 Doc Root:
 Faizzz-Chin ShellXploit'
-File Manager
 FilesMAn
 FoxWSO v1.2
 Gel4y Mini Shell
