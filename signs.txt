@@ -100,3 +100,4 @@ type="file"><input type="submit" value="Upload"
 x3x3x3x_5h3ll
 xichang1
 {Ninja-Shell}
+Local file: <input type="file" name="upload_file"><input type="submit" value="Upload"></form>
