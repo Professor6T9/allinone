@@ -1,4 +1,6 @@
 /.well-known/
+/autoload_classmap/
+/cgi-bin/
 /.well-known/acme-challenge/
 /.well-known/pki-validation/
 /.well-known/pkivalidation/
@@ -31,6 +33,10 @@
 /plugins/system/
 /prayer_intentions.php
 /profiles/
+/files/
+/cms/
+/assets/
+/fonts/
 /routes/
 /sites/all/modules/
 /sites/all/themes/
@@ -46,6 +52,7 @@
 /themes/contrib/
 /themes/custom/
 /tmp/
+/uploads/
 /vendor/laravel/framework/src/Illuminate/
 /vendor/phpunit/phpunit/src/Framework/
 /vendor/phpunit/phpunit/src/Util/PHP/
@@ -64,7 +71,6 @@
 /wp-admin/maint/maint/
 /wp-admin/meta/
 /wp-admin/network/
-/wp-admin/network/pngoptimazie.php
 /wp-admin/user/
 /wp-content/
 /wp-content/mu-plugins-old/
@@ -79,7 +85,8 @@
 /wp-content/plugins/ninja-forms/
 /wp-content/plugins/semrush/
 /wp-content/plugins/sexy-contact-form/includes/fileupload/
-/wp-content/plugins/slideshow-ck/themes/config.php
+/wp-content/plugins/slideshow-ck/themes/
+/wp-content/plugins/fix/
 /wp-content/plugins/wpcall-button/
 /wp-content/themes/
 /wp-content/themes/Divi/
@@ -106,6 +113,7 @@
 /wp-includes/Requests/Transport/
 /wp-includes/Requests/Utility/
 /wp-includes/SimplePie/
+/wp-includes/js/tinymce/skins/lightgray/
 /wp-includes/SimplePie/Cache/
 /wp-includes/SimplePie/Content/
 /wp-includes/SimplePie/Content/Type/
